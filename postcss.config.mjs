@@ -4,9 +4,6 @@ const config = {
     tailwindcss: {},
     autoprefixer: {},
   },
-  "files.associations": {
-    "*.css": "postcss",
-  },
 };
 
 export default config;
