@@ -2,6 +2,10 @@
 const config = {
   plugins: {
     tailwindcss: {},
+    autoprefixer: {},
+  },
+  "files.associations": {
+    "*.css": "postcss",
   },
 };
 
